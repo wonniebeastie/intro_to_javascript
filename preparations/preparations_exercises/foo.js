@@ -1,3 +1,3 @@
 let foo = "bar";
-console.log(food);
+console.log(foo);
 foo;
