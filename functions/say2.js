@@ -1,5 +1,5 @@
 function say(text) {
-  console.log(text);
+  console.log("==> " + text);
 }
 
 say("hello");
