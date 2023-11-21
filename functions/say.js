@@ -1,7 +1,6 @@
-function say() {
-  console.log("Output from say()");
+function say(text = "hello") {
+  console.log(text + "!");
 }
 
-console.log("First");
+say("Howdy");
 say();
-console.log("Last");
